@@ -4,5 +4,5 @@ alert('Hello, world!');
 // write on html
 document.write('Hello, world!');
 
-// print on console, or terminal when using nodejs
+// print on console
 console.log('Hello, world!');
