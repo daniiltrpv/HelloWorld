@@ -1,5 +1,4 @@
 <?php
-
 echo "Hello, World!!!!";
 echo PHP_EOL;
 
@@ -14,7 +13,5 @@ class HelloClass
 
 $object = new HelloClass();
 $object->sayHello();
-
-
 
 ?>
