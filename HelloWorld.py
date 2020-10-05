@@ -1,1 +1,1 @@
-print('Hello World')
+import __phello__
